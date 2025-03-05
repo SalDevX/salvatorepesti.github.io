@@ -1,0 +1,19 @@
+current directory: /home/craftworkson/Desktop/web sites/phantom/phantom/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/craftworkson/Desktop/web sites/phantom/phantom/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250305-24153-xrl7vw sitelibdir\=./.gem.20250305-24153-xrl7vw clean
+
+current directory: /home/craftworkson/Desktop/web sites/phantom/phantom/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250305-24153-xrl7vw sitelibdir\=./.gem.20250305-24153-xrl7vw
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/craftworkson/Desktop/web sites/phantom/phantom/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250305-24153-xrl7vw sitelibdir\=./.gem.20250305-24153-xrl7vw install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250305-24153-xrl7vw
+
+current directory: /home/craftworkson/Desktop/web sites/phantom/phantom/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250305-24153-xrl7vw sitelibdir\=./.gem.20250305-24153-xrl7vw clean
