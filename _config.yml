@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Salvatore Pesti"
-email: 'Salvatore.pesti@gmail.com'
+email: 'salvatore.pesti@gmail.com'
 description: "Executive Chef"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -28,6 +28,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 
 ############################################################
@@ -95,8 +96,8 @@ pagination:
 
 ### Phantom settings
 footer_text: '© 2025 Salvatore Pesti'
-admin_name: 'Salavtore Pesti'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+admin_name: 'Salvatore Pesti'
+## google_analytics: "" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
