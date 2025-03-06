@@ -6,3 +6,5 @@ Gemfile.lock
 _site/
 _site/
 .jekyll-cache/
+_site/
+.jekyll-cache/
